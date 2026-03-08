@@ -1,3 +1,5 @@
+// Program to check whether a number is even or odd using a method.
+// Demonstrates the use of functions and conditional logic in Java.
 import java.util.Scanner;
 public class Even_Odd_Method {
     static int evenodd (int a){
@@ -25,4 +27,5 @@ System.out.println("even");
 //
 //        }
 //    }
+
 }
